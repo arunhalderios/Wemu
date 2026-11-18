@@ -1,0 +1,68 @@
+{
+  "identifier" : "CAC94666",
+  "nonRenewingSubscriptions" : [
+    {
+      "displayPrice" : "5.99",
+      "familyShareable" : false,
+      "internalID" : "6446306279",
+      "localizations" : [
+        {
+          "description" : "Unlimited skip,Create your own playlist",
+          "displayName" : "Premium Monthly",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.wemo.subscription.monthly",
+      "referenceName" : "WemuMonthlySubcription",
+      "type" : "NonRenewingSubscription"
+    }
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+    "_applicationInternalID" : "6446088705",
+    "_developerTeamID" : "BA966UTYZB",
+    "_lastSynchronizedDate" : 704204936.26387894
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "21282345",
+      "localizations" : [
+
+      ],
+      "name" : "com.wemo.autoReNewSubscription.monthly",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "5.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "6446714273",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Unlimited listening and add free",
+              "displayName" : "Wemu premium monthly subscript",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "Monthpre",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Monthly premium ",
+          "subscriptionGroupID" : "21282345",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "inapppurchase",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jinSasaki/InAppPurchase.git",
+      "state" : {
+        "revision" : "a7a17000cf42bc7f3a99d947ce15a2f6b99a23ed",
+        "version" : "2.8.0"
+      }
+    }
+  ],
+  "version" : 2
+}

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>sharyo.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>D9A27CCEB075BA176725C9CE3280897D964B9BAE</string>
+				<key>dateExpires</key>
+				<string>27/09/23</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>WN6L8CACLD.org.reactjs.native.example.sharyo</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>WN6L8CACLD</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>sharyo.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>c395b4fd-64ee-45dc-a8f1-63888890c501</string>
+				<key>dateExpires</key>
+				<string>11/10/23</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: *</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>WN6L8CACLD</string>
+				<key>name</key>
+				<string>Shyam Future Tech LLP</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
